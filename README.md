@@ -2,10 +2,7 @@
 
 Some text goes here.
 
-## IPSUM Below
-
-jfdslfjdklfsdklfsdklf
-
-
-
-fdsfdsfsda
+## Website Contents
+dfsd
+fdsfsd
+fdsfs
